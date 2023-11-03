@@ -259,9 +259,7 @@ Skill
     font-size: 14px;
     line-height: 1.8;
 }
-.canva {
-    border-radius: 50%;
-}
+
 /*--------------------------------
 About
 ---------------------------------*/
@@ -456,7 +454,7 @@ Contact
 
     /* レイアウト */
     .wrapper {
-        padding-top: 57px;
+        padding-top: 50px;
     }
 
     .section {
